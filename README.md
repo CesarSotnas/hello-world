@@ -1,2 +1,3 @@
 # hello-world
-Testando o programa inicial
+Programador iniciante.
+Aqui virão futuras atualizações com o progresso da minha evolução em programação.
